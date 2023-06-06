@@ -1,0 +1,12 @@
+jumpToNode "/Hands On Guide/TestCases/Create File with data/Set the Buffer/Text"
+
+//Modify value
+task "Modify Value"
+no
+"Tricentis Tosca is a Continuous Testing Tool"
+
+//Navigate to ExecutionEntry
+jumpToNode "/Hands On Guide/Execution/ExecutionLists/Create File with data"
+//Execute the ExecutionEntry
+task Run
+Save
